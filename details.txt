@@ -1,0 +1,28 @@
+"Act as a Senior Frontend Developer. Create a high-end, responsive single-page portfolio for Rayavarapu Uday, an Information Technology student at Chaitanya Bharathi Institute of Technology (CBIT).
+
+The site should follow these specifications:
+
+Visual Style: Modern, 'Glassmorphism' or 'Tech-minimalist' theme using Tailwind CSS. Use a dark blue and slate color palette to reflect a professional IT identity.
+
+Hero Section: Include my name, my college (CBIT)(2025-29), and a dynamic typewriter effect that cycles through: 'IT Student', 'MLRIT Hackathon Participant in 2026', 'IoT Enthusiast'.
+
+Education Card: Highlight my 8.93 CGPA from the first semester with a progress bar or a distinct badge to show academic excellence.
+
+Featured Project (Smart Irrigation System): Create a special 'Project Deep Dive' section for my R&D Project: Smart Irrigation System. Mention it involves R&D and CE, focusing on automation and efficiency.
+
+Technical Roadmap Section: >    * Foundations: C Language & Calculus.
+
+Current Focus: C++ and Data Structures (DSA).
+
+Experience: MLRIT Hackathon participant.
+
+Interactivity: Include smooth scroll navigation, hover effects on project cards, and a 'Contact Me' section with GitHub and LinkedIn icons.
+contact:
+7569107723
+email:udayrayavarapu5@gmail.
+intermediate$:narayana junior college(2023-25)
+linkdin:https://www.linkedin.com/in/uday-rayavarapu-bb46243b0/
+
+
+
+
